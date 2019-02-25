@@ -1,2 +1,2 @@
-# InfraAgil-BRHC
-sistema de infraestrutura rapida BRHC
+# InfraAgil-linux debian\ubuntu
+sistema de infraestrutura rapida para desktops debian\ubuntu
